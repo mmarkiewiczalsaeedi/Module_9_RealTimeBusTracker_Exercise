@@ -1,0 +1,11 @@
+/* Add any additional styling here */
+
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  #map {
+    height: 100vh;
+  }
+  
